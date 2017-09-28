@@ -16,7 +16,7 @@
     "hypercored": "^1.4.1"
   },
   "scripts": {
-    "test": "bankai test.js",
+    "test-browser": "bankai test.js",
     "test-server": "hypercored --websockets --no-swarm --port 9000"
   },
   "repository": {

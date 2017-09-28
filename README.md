@@ -1,5 +1,7 @@
 # `hyperconsole`
 
+[![Build Status](https://travis-ci.org/emilbayes/hyperconsole.svg?branch=master)](https://travis-ci.org/emilbayes/hyperconsole)
+
 > Console logging over hypercore
 
 Still WIP
